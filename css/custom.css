@@ -127,7 +127,7 @@ h3.sectionTitle {
 /********************************************************************/
 
 .jumbotron {
-	background: url("../assets/img/mbstu2.png") no-repeat center fixed; 
+	background: url("../assets/img/mbstu2.png") no-repeat center scroll; 
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;

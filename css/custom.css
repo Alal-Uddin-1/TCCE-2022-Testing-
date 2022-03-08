@@ -1,6 +1,7 @@
 body {
     color: #555555;
     font-family: 'Noto Sans',sans-serif;
+	
 }
 /**********************************************************************/
 /************************** COMMON ELEMENTS **************************/
@@ -54,13 +55,16 @@ h3.sectionTitle {
 
 .navbar {
 	margin-bottom: 0;
+
 }
+
 
 .navbar-inverse {
 	/**
 	background: url(../assets/img/80.png);
 	**/
-	background: #fff;
+	
+	background: #C1F6BA;
 	border: 0 none;
 	box-shadow: 0 1px 10px rgba(0, 0, 0, 0.2);
 }
@@ -74,6 +78,7 @@ h3.sectionTitle {
 	font-size: 40px;
 	letter-spacing: -2px;
 	font-weight: 700;
+	
 }
 .navbar-inverse .navbar-brand {
     color: #428BCA;
@@ -95,6 +100,7 @@ h3.sectionTitle {
 }
 .navbar-nav {
 	float: right;
+	
 }
 .navbar-inverse .navbar-nav > li > a {
 	font-family: 'Roboto Condensed',sans-serif;
@@ -104,6 +110,7 @@ h3.sectionTitle {
     font-weight: 400;
     padding: 30px 15px;
     text-shadow: none;
+
 }
 .navbar .nav > li > a:hover,
 .navbar .nav > li > a:focus {
@@ -127,13 +134,13 @@ h3.sectionTitle {
 /********************************************************************/
 
 .jumbotron {
-	background: url("../assets/img/mbstu2.png") no-repeat center scroll; 
+	background: url("../assets/img/mbstu2.png") no-repeat center fixed; 
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
 	padding-bottom: 0px;
-    padding-top: 140px;
+    padding-top:140px;
 	color: #fff;
 	margin-bottom: 0px;
 	
@@ -157,7 +164,7 @@ h3.sectionTitle {
 	color: #fff;
 	font-weight: 300;
 	text-shadow: 0 1px 5px #222222;
-	margin-bottom: 30px;
+	margin-bottom: 23px;
 }
 .jumbotron .actionBtn .line1 {
 	display: inline-block;

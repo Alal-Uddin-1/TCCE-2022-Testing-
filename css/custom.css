@@ -178,6 +178,7 @@ h3.sectionTitle {
     font-weight: 700;
 	line-height: 1;
 	
+	
 }
 
 /**********************************************************************/
@@ -460,10 +461,14 @@ footer .social a .fa-inverse {
 	}
 	.jumbotron .jumboText {
 		text-align: center;
+		
 	}
 	.jumbotron h1 {
 		font-size: 64px;
+		
 	}
+	
+	
 	.jumbotron .actionBtn {
 		margin-bottom: 50px;
 	}
@@ -472,7 +477,9 @@ footer .social a .fa-inverse {
 	}
 	#productWrap .imgWrap img {
 		margin: 0 auto 60px;
+		
 	}
+	
 	#contactWrap .blurb {
 		font-size: 20px;
 	}
